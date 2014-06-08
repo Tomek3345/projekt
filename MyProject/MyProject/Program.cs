@@ -12,6 +12,9 @@ namespace MyProject
             // This is hello world...
             Console.WriteLine("Hello world !");
             Console.ReadKey();
+            Console.Write("What's your name ? ");
+            Console.WriteLine("Hello " + Console.ReadLine());
+            Console.ReadKey();
         }
     }
 }
