@@ -9,6 +9,7 @@ namespace MyProject
     {
         static void Main(string[] args)
         {
+            // This is hello world
             Console.WriteLine("Hello world !");
             Console.ReadKey();
         }
